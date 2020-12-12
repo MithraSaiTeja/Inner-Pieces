@@ -44,7 +44,7 @@ spotipy             2.16.1
 ## MOCK APPLICATIONS:
 1. Hireme: A hiring website which obtains the doctor profiles through our website
 2. Hospital webpage: Website of a hospital which displays feedback of psychologists working thereas well as innerpieces from the feedback given on them in our website.
-3. Blog page: Blog page which leads to the e-commerce page which has items sold on inner pieces shop page
+3. Blog page: Blog page which leads to the E-commerce page which has items sold on inner pieces shop page
 
 ## MARKET ANALYSIS-POTENTIAL CUSTOMERS:
 According to a survey conducted in 2018, Suicide is considered to one of the main reasons of deaths in India. It even surpasses the count of deaths by accidents by a huge difference.
